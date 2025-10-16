@@ -12,9 +12,15 @@
     "categories": ["esporte", "corrida"]
   },
   {
-    "podcastName": "flow",
-    "episode": "SAMUEL - Flow 001",
+    "podcastName": "venus",
+    "episode": "SAMUEL - Venus 001",
     "videoId": "0000",
+    "categories": ["esporte", "programação"]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "EZEQUIEL - Venus 001",
+    "videoId": "0010",
     "categories": ["esporte", "programação"]
   }
 ]
