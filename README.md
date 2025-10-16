@@ -13,18 +13,19 @@ Demonstrar como desenvolver uma **API REST** utilizando apenas os recursos **nat
 ## 📂 Estrutura
 
 - `src/` — código-fonte principal da aplicação  
-- `controllers/` — controladores e rotas da API  
+- `routes/` — definição das rotas da API  
+- `controllers/` — controladores responsáveis por tratar as requisições  
 - `services/` — camada de regras de negócio  
 - `repositories/` — acesso a dados e simulação de persistência  
 - `models/` — tipos e interfaces TypeScript  
-- `utils/` — funções utilitárias  
+- `utils/` — funções e utilitários gerais  
 
 ---
 
 ## 🛠️ Funcionalidades
 
 - Operações CRUD básicas (create, read, update, delete)  
-- Arquitetura em camadas (controllers, services, repositories)  
+- Arquitetura em camadas (routes, controllers, services, repositories)  
 - Uso de **TypeScript** para garantir tipagem estática e segurança  
 - Estrutura modular e de fácil manutenção  
 - Tratamento simples de erros e respostas padronizadas  
